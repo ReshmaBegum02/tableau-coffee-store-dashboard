@@ -14,7 +14,7 @@ This project analyzes coffee store sales and profit performance using Tableau.
 - Microsoft Excel
 
 ## 🌐 Live Dashboard
-👉 Paste your Tableau Public link here
+👉 https://public.tableau.com/app/profile/reshma.dudekula/viz/TABLEAUPROJECT_/Dashboard2
 
 ## 👨‍💻 Created By
 Reshma
