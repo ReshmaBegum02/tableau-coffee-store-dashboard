@@ -1,5 +1,7 @@
 ☕ Coffee Store Sales & Profit Dashboard (2025–2026)
 
+![Dashboard](tableau-coffee-dashboard.png)
+
 📊 Project Overview
 This project analyzes coffee store sales and profit performance using Tableau to uncover key business insights and trends.
 
