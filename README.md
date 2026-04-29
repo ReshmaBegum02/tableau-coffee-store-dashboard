@@ -1,20 +1,25 @@
-# ☕ Coffee Store Sales & Profit Dashboard (2025–2026)
+☕ Coffee Store Sales & Profit Dashboard (2025–2026)
 
-## 📊 Project Overview
-This project analyzes coffee store sales and profit performance using Tableau.
+📊 Project Overview
+This project analyzes coffee store sales and profit performance using Tableau to uncover key business insights and trends.
 
-## 🔍 Key Insights
-- Top-performing products
-- Monthly sales & profit trends
-- Regional performance (Map)
-- Market contribution analysis
+🔍 Key Insights
+• Identified top-performing products contributing to revenue  
+• Analyzed monthly sales and profit trends  
+• Evaluated regional performance using map visualizations  
+• Assessed market contribution across different segments  
 
-## 🛠 Tools Used
-- Tableau Public
-- Microsoft Excel
+🛠 Tools Used
+• Tableau Public  
+• Microsoft Excel  
 
-## 🌐 Live Dashboard
+🌐 Live Dashboard
 👉 https://public.tableau.com/app/profile/reshma.dudekula/viz/TABLEAUPROJECT_/Dashboard2
 
-## 👨‍💻 Created By
+📌 Key Features
+• Interactive dashboard with filters and drill-down options  
+• KPI tracking for sales and profit  
+• Clear visual representation of business performance  
+
+👨‍💻 Created By
 Reshma
