@@ -23,5 +23,5 @@ This project analyzes coffee store sales and profit performance using Tableau to
 • KPI tracking for sales and profit  
 • Clear visual representation of business performance  
 
-👨‍💻 Created By
-Reshma
+👨‍💻 Author 
+Dudekula Reshma
